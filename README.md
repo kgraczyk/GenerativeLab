@@ -1,8 +1,11 @@
 # Deep Neural Networks in Particle and Nuclear Physics
 ------
 
+
+
 - Material for numerical experiments: tuning GAN
 - Author of the code, model, and tasks: dr Luis Bonilla
+- Open in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kgraczyk/GenerativeLab/blob/main/GAN_class_room.ipynb)
 - Load data from: [https://tinyurl.com/DNN-Labs](https://tinyurl.com/DNN-Labs)
 
 For reference see: 
